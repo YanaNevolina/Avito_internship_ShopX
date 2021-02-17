@@ -22,4 +22,4 @@
  
  - проверить что поле телефон - пустое.
 
- [Решение](test_task_shopx/README.md)
+ [Решение](test_task_shopx/)
