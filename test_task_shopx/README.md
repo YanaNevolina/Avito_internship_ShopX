@@ -2,6 +2,8 @@
 
 Авто тест написан на Python 3, с использованием pytest, Selenium и Chrome Web Driver.
 
+Исходные коды автотеста находятся в файле [test_avito_shopx.py](test_avito_shopx.py)
+
 Для запуска теста нужно:
 
 1. Установить [Chrome Web Driver](https://chromedriver.chromium.org/downloads)
